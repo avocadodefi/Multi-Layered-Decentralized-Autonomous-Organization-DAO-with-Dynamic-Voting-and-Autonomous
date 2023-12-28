@@ -1,6 +1,6 @@
 # Multi-Layered Decentralized Autonomous Organization (DAO) with Dynamic Voting and Autonomous Fund Management
 
-![DAO Banner](URL_TO_IMAGE_BANNER)
+![DAO Banner]([URL_TO_IMAGE_BANNER](https://i.ibb.co/7yp79zh/NVIDIA-Share-XHZo-LGPaq-P.png))
 
 ## Introduction
 Welcome to the innovative world of our Multi-Layered DAO with Dynamic Voting and Autonomous Fund Management. This project is at the forefront of blockchain technology, blending AI/ML algorithms with decentralized governance to revolutionize the DeFi landscape.
